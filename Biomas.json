@@ -1,0 +1,63 @@
+{
+"Amazonico": {
+    "Clima": "equatorial" ,
+    "Solo_Arenoso":true,
+    "Umidade":true,
+    "TipoVegetacao":"tropical",
+    "DensidadeVegetacao":"alta",
+    "FertilidadeSolo":"baixa",
+    "Planices":true,
+    "Planaltos":true
+},
+"Pampas": {
+    "Clima": "subtropical" ,
+    "Solo_Arenoso":true,
+    "Umidade":true,
+    "TipoVegetacao":"rasteira",
+    "DensidadeVegetacao":"baixa",
+    "FertilidadeSolo":"baixa",
+    "Planices":true,
+    "Planaltos":false
+},
+"Pantanal": {
+    "Clima": "tropical" ,
+    "Solo_Arenoso":true,
+    "Umidade":true,
+    "TipoVegetacao":"savana",
+    "DensidadeVegetacao":"alta",
+    "FertilidadeSolo":"baixa",
+    "Planices":true,
+    "Planaltos":false
+},
+"Cerrado": {
+    "Clima": "tropical" ,
+    "Solo_Arenoso":true,
+    "Umidade":false,
+    "TipoVegetacao":"rasteira",
+    "DensidadeVegetacao":"baixa",
+    "FertilidadeSolo":"baixa",
+    "Planices":true,
+    "Planaltos":false
+},
+"Caatinga": {
+    "Clima": "semiarido" ,
+    "Solo_Arenoso":true,
+    "Umidade":false,
+    "TipoVegetacao":"rasteira",
+    "DensidadeVegetacao":"baixa",
+    "FertilidadeSolo":"baixa",
+    "Planices":true,
+    "Planaltos":true
+},
+"MataAtlantica": {
+    "Clima": "tropical" ,
+    "Solo_Arenoso":false,
+    "Umidade":true,
+    "TipoVegetacao":"araucaria",
+    "DensidadeVegetacao":"alta",
+    "FertilidadeSolo":"alta",
+    "Planices":true,
+    "Planaltos":true
+}
+
+}
