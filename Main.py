@@ -4,8 +4,7 @@ import time
 import os
 with open("Biomas.json") as BiomeList:
     Biome = json.load(BiomeList)
-
-def AwnserTreatment(awnser,YorN,PossibleAwnsrs): #YorN defines the type of the question, if true it means its a boolean awnser but if false it means it is a generic awnser
+def AwnserTreatment(awnser,YorN,PossibleAwnsrs):
     replaced = awnser.replace(" ","").lower()
     if YorN == True:
         if replaced == "sim":
